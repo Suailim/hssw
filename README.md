@@ -1,2 +1,0 @@
-# hssw
-Publish hssw
